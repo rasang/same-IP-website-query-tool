@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import requests
 import re
 from sys import argv
